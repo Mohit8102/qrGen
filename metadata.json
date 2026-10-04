@@ -1,0 +1,6 @@
+{
+  "name": "Universal UPI QR",
+  "description": "Generate a single universal UPI QR code compatible with Google Pay, PhonePe, Paytm, BHIM, and all UPI apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
